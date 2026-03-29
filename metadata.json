@@ -1,0 +1,5 @@
+{
+  "name": "Screen Time Tracker",
+  "description": "React Native altyapısı ve Native modüller (Android UsageStatsManager, iOS Screen Time API) içeren ekran süresi takip uygulaması.",
+  "requestFramePermissions": []
+}
